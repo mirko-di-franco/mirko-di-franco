@@ -28,7 +28,7 @@
 ![Figma](https://img.shields.io/badge/figma-242938.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkettinho&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=mirkettinho&show_icons=true&theme=dark&locale=en" align="center" alt="rc-stats" title="rc-stats" />
-</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mirkettinho&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=mirkettinho&show_icons=true&theme=dark&locale=en" alt="rc-stats" title="rc-stats" />
+
