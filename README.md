@@ -28,7 +28,9 @@
 ![Figma](https://img.shields.io/badge/figma-242938.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mirkettinho&theme=dark&hide_border=false_align="center")
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirkettinho&theme=dark&hide_border=false)
-<img src="https://github-readme-stats.vercel.app/api?username=mirkettinho&show_icons=true&theme=dark&locale=en" alt="rc-stats" title="rc-stats" />
 
