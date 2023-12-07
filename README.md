@@ -4,7 +4,6 @@
 
 **Jr. Full Stack Web Developer :green_square::white_large_square::red_square:**
 <br>
-:books:	 Soon I will start learning `Java`
 <p align="left"><a href="https://www.linkedin.com/in/mirko-di-franco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="///" height="30" width="30" /></a>
 </p>
 
