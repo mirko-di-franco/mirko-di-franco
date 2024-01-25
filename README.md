@@ -1,13 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Mirko Di Franco</h1>
-<br>
+# Hi there 👋, I'm Mirko Di Franco
+### Jr. Full Stack Web Developer
 
-**Jr. Full Stack Web Developer**
-<br>
-<p align="left"><a href="https://www.linkedin.com/in/mirko-di-franco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="///" height="30" width="30" /></a>
-</p>
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fmirkodifranco.com)](https://www.mirkodifranco.com)
 
 ---
+- 📫 How to contact me: **mirkodifranco.dev@gmail.com**
+- 🌱 I’m currently learning: React and Redux
+- 🚧 Portfolio work in progress
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/mirko-di-franco/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -22,7 +28,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-085f8c.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DA55F?style=for-the-badge&logo=spring&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/eclipse-2c2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-242938.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
