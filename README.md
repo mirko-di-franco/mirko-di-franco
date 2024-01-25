@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mirko Di Franco</h1>
 <br>
 
-**Jr. Full Stack Web Developer :green_square::white_large_square::red_square:**
+**Jr. Full Stack Web Developer**
 <br>
 <p align="left"><a href="https://www.linkedin.com/in/mirko-di-franco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="///" height="30" width="30" /></a>
 </p>
@@ -21,7 +21,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-085f8c.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-812437?style=for-the-badge&logo=maven&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-6DA55F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/eclipse-2c2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-242938.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -29,7 +28,7 @@
 ---
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirkettinho&theme=dark&hide_border=false_align="center")
+![](https://github-readme-streak-stats.herokuapp.com/?user=mirko-di-franco&theme=dark&hide_border=false_align="center")
 </div>
 
 
