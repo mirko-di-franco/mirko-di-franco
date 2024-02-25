@@ -6,7 +6,7 @@
 
 ---
 - 📫 How to contact me: **mirkodifranco.dev@gmail.com**
-- 🌱 I’m currently learning: React and Redux
+- 🌱 I’m currently learning: Java
 - 🚧 Portfolio work in progress
 
 ### Connect with me:
