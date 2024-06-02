@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Mirko Di Franco
 ### Jr. Full Stack Web Developer
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fmirkodifranco.com)](https://www.mirkodifranco.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fmirkodifranco.com)](https://mirkodifranco.netlify.app/)
 
 ---
 - 📫 How to contact me: **mirkodifranco.dev@gmail.com**
