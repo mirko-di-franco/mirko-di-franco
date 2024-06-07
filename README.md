@@ -7,7 +7,7 @@
 ---
 - 📫 How to contact me: **mirkodifranco.dev@gmail.com**
 - 🌱 I’m currently learning: Java
-- 🚧 <a href="https://mirkodifranco.netlify.app/" target="_blank">
+- :globe_with_meridians: <a href="https://mirkodifranco.netlify.app/" target="_blank">**Portfolio**</a>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mirko-di-franco/" target="blank">
