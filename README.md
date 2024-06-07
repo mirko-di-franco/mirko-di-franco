@@ -7,7 +7,7 @@
 ---
 - 📫 How to contact me: **mirkodifranco.dev@gmail.com**
 - 🌱 I’m currently learning: Java
-- 🚧 Portfolio work in progress
+- 🚧 <a href="https://mirkodifranco.netlify.app/" target="_blank">
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mirko-di-franco/" target="blank">
