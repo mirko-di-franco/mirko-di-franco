@@ -32,8 +32,8 @@
 
 ---
 <div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirko-di-franco&theme=dark&hide_border=false_align="center")
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mirko-di-franco&hide_total_contributions=true)](https://git.io/streak-stats)
 </div>
 
 
