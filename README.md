@@ -30,10 +30,12 @@
 ![Spring](https://img.shields.io/badge/spring-6DA55F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-242938.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
+<!---
 ---
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mirko-di-franco&hide_total_contributions=true)](https://git.io/streak-stats)
 </div>
+-->
 
 
