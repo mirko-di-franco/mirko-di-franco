@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Mirko Di Franco
-### Jr. Full Stack Web Developer
+### Junior Web Developer | Cybersecurity Student
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmirkodifranco.com%2F)](https://mirkodifranco.com/)
 
